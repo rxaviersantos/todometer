@@ -1,5 +1,9 @@
-The code here is for [This Video Tutorial](https://youtu.be/uNd9HxIHptY)
+<h1 align="center"> Cypress E2E </h1>
 
-The purpose of this code/tutorial is to teach how to use Cypress to create E2E tests for your apps
+<p align="center">
+Escrevendo testes E2E para seus aplicativos
+</p>
 
-Switch over to the `master` branch if you'd like to view the finished tests.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg">
+</p>
