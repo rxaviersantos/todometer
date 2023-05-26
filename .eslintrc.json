@@ -1,6 +1,6 @@
 {
     "extends":[
-        "plugin:cypress/recommend",
+        "plugin:cypress/recommended",
         "react-app"
     ]
 }

@@ -34,7 +34,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "test": "react-scripts test",
+    "cypress": "npx cypress open"
   },
   "eslintConfig": {
     "extends": "react-app"
