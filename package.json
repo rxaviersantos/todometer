@@ -38,7 +38,7 @@
     "cypress": "npx cypress open"
   },
   "eslintConfig": {
-    "extends": "react-app" 
+    "extends": "react-app"
   },
   "browserslist": {
     "production": [
@@ -63,6 +63,6 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "node-sass": "^4.13.1"
+    "node-sass": "^6.0.1"
   }
 }
