@@ -1,7 +1,10 @@
-<reference types="Cypress" />;
+// <reference types="Cypress" />;
 
 context("Todos", () => {
   it("Adds todos", () => {
-    cy.visit("http://localhost:3000");
+    cy.visit(Cypress.env("baseURL"));
+    cy.clearLocalStorage();
+
+    cy.getByTestId("").should("have.length", 0);
   });
 });
