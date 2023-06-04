@@ -11,7 +11,7 @@ Escreveremos testes E2E completos para um aplicativo React usando Cypress!
 
 # Escrevendo testes E2E para seus aplicativos
 
-O projeto trata-se de um aplicativo de criação de tarefas desenvolvido em react, com algumas funcionalidades que serão testadas utilizando o framework Cypress. 
+O projeto trata-se de um aplicativo de criação de tarefas desenvolvido em react, com funcionalidades que serão testadas utilizando o framework Cypress. 
 
 ## Rodando localmente
 
